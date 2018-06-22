@@ -13,3 +13,6 @@ The design makes use of the following patterns:
 State pattern
 Strategy pattern
 Abstract factory pattern
+
+To run:
+To run this program, please use the executable jar file which is in the zip file. 
